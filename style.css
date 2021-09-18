@@ -8,6 +8,10 @@ h1{
 }
 .divided-div{
     display: flex;
+    width: auto;
+    margin-bottom: 100px;
+    
+    
 }
 .blue{
     color: blue;
@@ -23,9 +27,16 @@ h1{
     
     
 
+
 }
+.paragrapgh
+{
+   margin-bottom: 50px;
+
+}
+
 .half-width img{
-    width: 100%;
+    width: 80%;
 }
 .link-button{
 
@@ -35,7 +46,33 @@ h1{
     padding: 10px 30px;
     border-radius: 20px;
     color: white;
-    
-    
+
+}
+h2{
+    font-size: 30px;
+}
+.image{
+    margin-top: 170px;
+   
+    margin-left: 120px;
+    height: 80%;
+  
+}
+.center{
+    margin: auto;
+    width: 40%;
+    padding: 120px;
     
 }
+.height{
+    margin-bottom: 100px;
+}
+.back-image{
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+
+    
+    
+    
+    
