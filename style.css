@@ -101,6 +101,19 @@ h2{
 
 
 
+.footer{
+    text-align: center;
+    
+   background-color: rgba(0, 0, 0, 0.774);
+    color: white;
+    padding: 20px 50px 100px;
+}
+#color-water{
+    color:black;
+}
+
+
+
 
     
     
