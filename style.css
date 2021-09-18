@@ -71,8 +71,40 @@ h2{
     background-image: url(images/Frame\ 57.jpg);
     background-repeat: no-repeat;
 }
+.create-gap{
+    margin-bottom: 50px;
+}
+.recipies{
+    text-align: center;
+}
+
+
+.food-img{
+    height: 50%;
+    width: 90%;
+    margin-bottom: 30px;
+    margin-top: 20px; 
+    margin-left: 5%;
+}
+.recipies-item{
+    width: 80%;
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 20px;
+}
+.title{
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 2%;
+    padding-bottom: 5%;
+}
+
+
+
 
     
+    
+
     
     
     
