@@ -2,10 +2,40 @@ body{
     font-family: 'Poppins', sans-serif;
     
 }
+
 h1{
     font-size: 40px;
     margin: 0;
 }
+.decoration{
+    background-color: rgba(0, 0, 0, 0.774);
+    
+}
+
+
+.dec-item
+{
+    display: inline-block;
+   margin: 20px 10px 20px 20px;
+    text-decoration: none;
+    padding: 10px 50px;
+    border-radius: 5px;
+    background-image: linear-gradient( blue,cyan);
+    font-weight: 700;
+    
+    
+    box-shadow: 5px 5px 10px grey;
+    
+
+
+}
+
+.dec-item:hover
+{
+  
+    color: white;
+}
+
 .divided-div{
     display: flex;
     width: auto;
@@ -101,12 +131,14 @@ h2{
 
 
 
+
 .footer{
     text-align: center;
     
    background-color: rgba(0, 0, 0, 0.774);
     color: white;
     padding: 20px 50px 100px;
+    margin-top: 100px;
 }
 #color-water{
     color:black;
